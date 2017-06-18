@@ -1,0 +1,6 @@
+C:\Users\user\Documents\SharpDevelop Projects\TestCMD\TestCMD\bin\Debug\TestCMD.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\TestCMD\TestCMD\bin\Debug\TestCMD.exe
+C:\Users\user\Documents\SharpDevelop Projects\TestCMD\TestCMD\bin\Debug\TestCMD.pdb
+C:\Users\user\Documents\SharpDevelop Projects\TestCMD\TestCMD\obj\Debug\TestCMD.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\TestCMD\TestCMD\obj\Debug\TestCMD.exe
+C:\Users\user\Documents\SharpDevelop Projects\TestCMD\TestCMD\obj\Debug\TestCMD.pdb
