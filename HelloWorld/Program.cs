@@ -18,9 +18,7 @@ namespace TestCMD
 			
 			// TODO: Implement Functionality Here
 			// Test Project
-			// 5555555---------66666
-			// c8
-			// c10 new
+			// c12  Test
 			
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
