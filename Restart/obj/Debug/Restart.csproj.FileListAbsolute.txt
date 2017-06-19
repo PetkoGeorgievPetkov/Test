@@ -1,0 +1,8 @@
+D:\VNC\soft\C#\SharpDevelop Projects\Restart\obj\Debug\Restart.MainForm.resources
+D:\VNC\soft\C#\SharpDevelop Projects\Restart\obj\Debug\Restart.csproj.GenerateResource.Cache
+D:\VNC\soft\C#\SharpDevelop Projects\Restart\obj\Debug\Restart.csprojResolveAssemblyReference.cache
+D:\VNC\soft\C#\SharpDevelop Projects\Restart\bin\Debug\PowerOff.exe.config
+D:\VNC\soft\C#\SharpDevelop Projects\Restart\bin\Debug\PowerOff.exe
+D:\VNC\soft\C#\SharpDevelop Projects\Restart\bin\Debug\PowerOff.pdb
+D:\VNC\soft\C#\SharpDevelop Projects\Restart\obj\Debug\PowerOff.exe
+D:\VNC\soft\C#\SharpDevelop Projects\Restart\obj\Debug\PowerOff.pdb
